@@ -1,6 +1,6 @@
 
 
-# a Responsive Website  
+# Responsive Website with animation
 ## *HTML, CSS Grid, Flexbox*
 
 
