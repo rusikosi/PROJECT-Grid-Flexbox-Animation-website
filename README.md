@@ -1,7 +1,7 @@
 
 
-# Responsive Website 
-## *HTML, CSS Grid, Flexbox, Animation*
+# Responsive Modern Website 
+### *HTML, CSS Grid, Flexbox, Animation*
 
 
 web site-copy 
