@@ -1,8 +1,10 @@
 
 
-H1 Travel Agency website H1
+# Travel Agency website
 
- *Materialize CSS 1.0.0.*
+## *Materialize CSS 1.0.0.*
+
+using HTML, CSS
 
 A step-by-step copy from the tutorial on youtube
 
