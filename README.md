@@ -4,6 +4,6 @@
 ## *HTML, CSS Grid, Flexbox, Animation*
 
 
-step-by-step copy from the tutorial on youtube
+web site-copy 
 
-([https://youtu.be/MaP3vO-vEsg](https://youtu.be/p0bGHP-PXD4))
+ of ([Traversy Media](https://youtu.be/p0bGHP-PXD4))
