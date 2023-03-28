@@ -1,7 +1,7 @@
 
 
-# Responsive Website with animation
-## *HTML, CSS Grid, Flexbox*
+# Responsive Website 
+## *HTML, CSS Grid, Flexbox, Animation*
 
 
 step-by-step copy from the tutorial on youtube
