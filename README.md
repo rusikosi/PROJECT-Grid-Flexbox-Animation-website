@@ -4,6 +4,4 @@
 ### *HTML, CSS Grid, Flexbox, Animation*
 
 
-web site-copy 
-
- of ([Traversy Media](https://youtu.be/p0bGHP-PXD4))
+web site-copy of ([Traversy Media](https://youtu.be/p0bGHP-PXD4))
