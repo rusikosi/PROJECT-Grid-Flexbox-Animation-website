@@ -1,6 +1,10 @@
-# codeAlong-loruki_website
-copy of Loruki-website
 
+
+H1 Travel Agency website 
+
+Theme with *Materialize CSS 1.0.0.*
+
+A step-by-step copy from the tutorial on youtube
 
 https://youtu.be/MaP3vO-vEsg
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Build A Travel Agency Theme With Materialize CSS 1.0.0](https://youtu.be/MaP3vO-vEsg)
