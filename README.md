@@ -1,8 +1,8 @@
 
 
-# Travel Agency Website 
+# a Responsive Website | HTML, CSS Grid, Flexbox 
 ## *Materialize CSS 1.0.0.*
-(HTML, CSS)
+
 
 step-by-step copy from the tutorial on youtube
 
